@@ -1,4 +1,7 @@
 public class FindCountOfElements {
+	
+	//To find the count of the numbers in a given int array without using collections.
+	//The array contains 0s and 1s, and the array was always sorted.
 
 	public static void main(String[] args) {
 		int array[] = {0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1};
